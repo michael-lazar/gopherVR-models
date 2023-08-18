@@ -8,9 +8,9 @@ The 3D objects were originally modelled in c code using [libvogl](https://www.au
 
 ## 3D Models
 
-- [models/dir.obj](models/dir.obj)
-- [models/document.obj](models/document.obj)
-- [models/kiosk.obj](models/kiosk.obj)
-- [models/search.obj](models/search.obj)
-- [models/sound.obj](models/sound.obj)
-- [models/telnet.obj](models/telnet.obj)
+- [models/dir.obj](models/dir.obj?raw=1)
+- [models/document.obj](models/document.obj?raw=1)
+- [models/kiosk.obj](models/kiosk.obj?raw=1)
+- [models/search.obj](models/search.obj?raw=1)
+- [models/sound.obj](models/sound.obj?raw=1)
+- [models/telnet.obj](models/telnet.obj?raw=1)
